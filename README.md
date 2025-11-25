@@ -1,1 +1,3 @@
 My notes in Jupeter Notebooks mostly based on [Feature Engineering in Machine Learning](https://www.udemy.com/course/feature-engineering-for-machine-learning/) course by Soledad Galli and Train in Data Team. Each notebook relates to a different topic, e.g. imputation or categorical encoding methods. I perform those methods on a mini sample Data Frame to be able to see the results. I use several Python libraries such as `pandas`, `sklearn` and `feature-engine` to learn about their advantages and disadvantages.
+
+There is also one case study using Adult Census dataset from Kaggle. The main purpose is to answear the question what are the characteristics of people earing more than 50K.
